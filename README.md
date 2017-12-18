@@ -11,7 +11,10 @@ This Script Use The License Apache2
 
 # Screenshot
 
-![Screenshot] (https://rifkytech.github.io/img/screenshot.png)
+<p align="center">
+  <img src="https://rifkytech.github.io/img/screenshot.png" width="350"/>
+  
+</p> 
 
 Demo : https://rifkytech.github.io/
 
