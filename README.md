@@ -16,7 +16,7 @@ This Script Use The License Apache2
   
 </p> 
 
-Demo : https://rifkytech.github.io/
+<p align="center">Demo : https://rifkytech.github.io/ </p>
 
 
 # WIKI
