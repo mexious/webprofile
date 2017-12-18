@@ -10,6 +10,13 @@ I Am Just A Newbie Front End Developer For My First Website Profile
 	<p> Hello World </p>
 	<p> I Am Linux Network Administrator <3 </p>
 	
-	</code>
+	<terminal>
+	root@rifkytech:~$ echo "Hello World"
+	Hello World
+	root@rifkytech:~$ 
+	</terminal>
+	
+	
+</code>
 
 
