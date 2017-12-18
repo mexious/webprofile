@@ -6,11 +6,10 @@ Use A Simple CSS Boostrap
 I Am Just A Newbie Front End Developer For My First Website Profile
 
 <code>
-	<pre>
-	<pre>
+	
 	<p> Hello World </p>
-	</pre>
-	</pre>
+	<p> I Am Linux Network Administrator <3 </p>
+	
 	</code>
 
 
