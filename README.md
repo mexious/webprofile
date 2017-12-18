@@ -7,7 +7,7 @@ I Am Just A Newbie Front End Developer For My First Website Profile
 
 # License
 
-This Script Use The License Apache2
+This Script Use The GNU GENERAL PUBLIC LICENSE
 
 # Screenshot
 
