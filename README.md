@@ -5,6 +5,21 @@ Use A Simple CSS Boostrap
 
 I Am Just A Newbie Front End Developer For My First Website Profile
 
+# License
+
+This Script Use The License Apache2
+
+# Screenshot
+
+
+# WIKI
+
+For More Documentation, Pleas Read >> https://github.com/rifkytech/rifkytech.github.io/wiki
+
+
+
+
+
 <code>
 	
 	
