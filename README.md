@@ -18,7 +18,7 @@ Learn More About License >> https://github.com/rifkytech/rifkytech.github.io/blo
   
 </p> 
 
-<p align="center">Demo : https://rifkytech.github.io/ </p>
+<p align="center">Demo : https://rifky.mexious.net </p>
 
 
 # WIKI
