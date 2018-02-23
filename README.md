@@ -11,15 +11,6 @@ This Script Use The GNU GENERAL PUBLIC LICENSE
 
 Learn More About License >> https://github.com/rifkytech/rifkytech.github.io/blob/master/LICENSE 
 
-# Screenshot
-
-<p align="center">
-  <img src="https://rifkytech.github.io/img/screenshot.png" width="350"/>
-  
-</p> 
-
-<p align="center">Demo : https://rifky.mexious.net </p>
-
 
 # WIKI
 
@@ -28,23 +19,5 @@ For More Documentation, Pleas Read >> https://github.com/rifkytech/rifkytech.git
 
 
 
-
-<code>
-	
-	
-	
-	<terminal>
-	
-	root@rifkytech:~$ echo "Hello World"
-	Hello World
-	root@rifkytech:~$ cd /var/www/rifky/githubpage
-	root@rifkytech:/var/www/rifky/githubpage$ ls
-	root@rifkytech:/var/www/rifky/githubpage$ 
-	index.html css img
-	
-	</terminal>
-	
-	
-</code>
 
 
